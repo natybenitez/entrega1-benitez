@@ -22,3 +22,4 @@ urlpatterns = [
     path('saludo/<nombre>',saludo, name='saludo'),
     path('probando-template/', probando_template,name='probando-template')
 ]
+
